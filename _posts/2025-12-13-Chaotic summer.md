@@ -7,7 +7,7 @@ tags:
   - Voigtländer 50 mm f2 APO
   - Leica M6
   - Film
-cover: assets/images/fuji400.jpg
+cover: assets/images/Chaotic_summer/000006380007_sm.jpeg
 # article_header:
 #   type: overlay
 #   theme: dark
