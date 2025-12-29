@@ -22,13 +22,13 @@ cover: assets/images/fuji400.jpg
 
 Daffodil
 
-![Daffodil](https://lingzhic.github.io/Blog/assets/images/Chaotic_summer/000006380007_sm.jpeg "Daffodil")
+![Daffodil](https://lingzhic.github.io/Mostly_Clear/assets/images/Chaotic_summer/000006380007_sm.jpeg "Daffodil")
 
 ## Fizroy
 
 Roast duck
 
-![Roast duck](https://lingzhic.github.io/Blog/assets/images/Chaotic_summer/000009590004_sm.jpeg "Roast duck")
+![Roast duck](https://lingzhic.github.io/Mostly_Clear/assets/images/Chaotic_summer/000009590004_sm.jpeg "Roast duck")
 
 # Summilux 35 mm f1.4 FLE
 
@@ -36,12 +36,12 @@ Roast duck
 
 Silver Spoons
 
-![Silver Spoons](https://lingzhic.github.io/Blog/assets/images/Chaotic_summer/000009590025_sm.jpeg "Silver Spoons")
+![Silver Spoons](https://lingzhic.github.io/Mostly_Clear/assets/images/Chaotic_summer/000009590025_sm.jpeg "Silver Spoons")
 
 ???
 
-![???](https://lingzhic.github.io/Blog/assets/images/Chaotic_summer/000009590026_sm.jpeg "???")
+![???](https://lingzhic.github.io/Mostly_Clear/assets/images/Chaotic_summer/000009590026_sm.jpeg "???")
 
 Carlton garden
 
-![Carlton garden](https://lingzhic.github.io/Blog/assets/images/Chaotic_summer/000009590027_sm.jpeg "Carlton garden")
+![Carlton garden](https://lingzhic.github.io/Mostly_Clear/assets/images/Chaotic_summer/000009590027_sm.jpeg "Carlton garden")
