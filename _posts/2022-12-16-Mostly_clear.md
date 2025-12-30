@@ -28,3 +28,5 @@ I remember it is a warm afternoon in Shanghai
 同时，mostly clear也是最适合拍照的天气，按照老法师们的说法，光线太弱的cloudy天气不容易拍出好看的环境，而光线太强的sunny天气又容易出现“光板天空”，在二者之间折中的mostly clear就显得尤为理想了
 
 所以即使我直到现在也不爱独酌，但是当时真的有一种暂凭杯酒长精神的感觉，于是这个词开始反复地出现在我脑海里，直到现在，已经过去了四年，我才磨磨蹭蹭的抽空回忆了一下当时的天气，也随手写下了这段逻辑混乱的字，这些都并不重要，重要的是我依然希望在读PhD的这段时间中，还有以后的生命中，都能有这样的天气和这样的经历等着我，然后我在这里可以和你分享所有mostly clear的一切
+
+![nomorecovid](https://lingzhic.github.io/Mostly_Clear/assets/images/nomorecovid.jpg "nomorecovid")
