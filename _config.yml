@@ -36,7 +36,7 @@ timezone: Australia/Melbourne # see https://en.wikipedia.org/wiki/List_of_tz_dat
 author:
   type      : organization # "person" (default), "organization"
   name      : Colin
-  url       :
+  url       : https://lingzhic.github.io/Mostly_Clear
   avatar    : # path or url of avatar image (square)
   bio       : Hi, I am Colin.
   email     : # colawithrain@gmail.com
@@ -75,8 +75,7 @@ excerpt_separator: <!--more-->
 excerpt_type: html
 
 ## license
-# "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
 
 ## TOC
 toc:
@@ -221,20 +220,20 @@ defaults:
       # show_edit_on_github: true
       show_subscribe: true
       pageview: true
-  ## foto_posts
-  - scope:
-      path: ""
-      type: foto_posts
-    values:
-      nav_key: Foto
-      layout: article
-      sharing: true
-      license: true
-      aside:
-        toc: true
-      # show_edit_on_github: true
-      show_subscribe: true
-      pageview: true
+  # ## foto_posts
+  # - scope:
+  #     path: ""
+  #     type: foto_posts
+  #   values:
+  #     nav_key: Foto
+  #     layout: article
+  #     sharing: true
+  #     license: true
+  #     aside:
+  #       toc: true
+  #     # show_edit_on_github: true
+  #     show_subscribe: true
+  #     pageview: true
 
 
 ## => Plugins
