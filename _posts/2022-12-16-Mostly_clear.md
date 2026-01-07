@@ -6,7 +6,7 @@ tags:
   - Summaron 35mm 2.8
   - Leica M6
   - Film
-cover: assets/images/fuji400.jpg
+cover: assets/images/Mostly_clear/Mostly_Clear_weather.png
 # article_header:
 #   type: overlay
 #   theme: dark
