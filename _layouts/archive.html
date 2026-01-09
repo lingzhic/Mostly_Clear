@@ -26,7 +26,10 @@ titles:
 ---
 
 <div class="layout--archive js-all">
-  {%- assign _all_articles = site.posts | concat: site.foto_posts -%}
+  <!-- include another post list -->
+  <!-- {%- assign _all_articles = site.posts | concat: site.foto_posts -%} --> 
+  <!-- include home page post list only -->
+  {%- assign _all_articles = site.posts}
   {%- include tags.html articles=_all_articles -%}
   <div class="js-result layout--archive__result d-none">
     {%- include article-list.html articles=_all_articles type='brief' show_info=true reverse=true group_by='year' -%}
