@@ -15,7 +15,6 @@ cover: assets/images/Chaotic_summer/000006380007_sm.jpeg
 #   background_image:
 #     src: assets/images/fuji400.jpg
 ---
-
 # Voigtländer 50 mm f2 APO
 
 ## Carlton
